@@ -8,7 +8,7 @@
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhavms&show_icons=true&theme=radical&include_all_commits=true) | ![Madhav's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavms&theme=radical&layout=compact) |
+| ![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhavms&show_icons=true&theme=radical&include_all_commits=true)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavms"></img>
 
