@@ -1,5 +1,5 @@
 - 👋 Hi I’m @madhavms
-- 👯 I’m looking to collaborate on Python and Javscript Projects
+- 👯 I’m looking to collaborate on interesting project in Typescript and React.
 - 📫 How to reach me: https://www.linkedin.com/in/madhavmanohars/
 
 <!--   GitHub stats graph -->
