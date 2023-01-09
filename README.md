@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=madhavms)](https://git.io/streak-stats)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=madhavms&show_icons=true&theme=radical&include_all_commits=true)![Quiec%27s%20github%20stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=madhavms&show_icons=true&theme=radical&include_all_commits=true)!| [Quiec%27s%20github%20stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact)
 
 
 <!--
