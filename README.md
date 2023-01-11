@@ -11,6 +11,6 @@
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhavms&show_icons=true&theme=radical&include_all_commits=false)| ![Madhav's github stats](https://github-readme-streak-stats.herokuapp.com/?user=madhavms) |
+| ![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhavms&show_icons=true&theme=radical&include_all_commits=true)| ![Madhav's github stats](https://github-readme-streak-stats.herokuapp.com/?user=madhavms) |
 
 
