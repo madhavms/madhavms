@@ -1,7 +1,7 @@
 - 👋 Hi this is Madhav.
 - 👨‍💻 I'm a Full stack developer skilled in React, Typescript and Python.
 - 📝 Techinical blogs @Medium: https://medium.com/@madhavmanohar.s
-- 👯 I’m looking forward to collaborate with the wonderful developer community.
+- 👯 Looking forward to collaborate with the wonderful developer community.
 - 📫 How to reach me: https://www.linkedin.com/in/madhavmanohars/
 
 
