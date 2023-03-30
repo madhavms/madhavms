@@ -1,8 +1,10 @@
 - 👋 Hi this is Madhav.
 - 👨‍💻 I'm a Full stack developer skilled in React, Typescript and Python.
 - 📝 Techinical blogs @Medium: https://medium.com/@madhavmanohar.s
+- Checkout my latest project: https://madhavms.github.io/react-host-remote/
 - 👯 Looking forward to collaborate with the wonderful developer community.
 - 📫 How to reach me: https://www.linkedin.com/in/madhavmanohars/
+
 
 
 
